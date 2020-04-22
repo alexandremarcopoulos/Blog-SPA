@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'blog-SPA';
+  carteira: string = "assets/img/Carteira.jpg"
+  pulseira: string = "assets/img/Pulseira_Relogio.jpg"
+  capaKindle: string = "assets/img/Capa_Kindle.jpg"
+  chaveiro: string = "assets/img/Chaveiro.jpg "
 }
