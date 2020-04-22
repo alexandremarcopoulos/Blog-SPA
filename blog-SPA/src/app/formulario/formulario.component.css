@@ -1,0 +1,34 @@
+div{
+    text-align: center;
+}
+
+h3{
+    color: #32703A;
+}
+
+p{
+    color: #94B370;
+}
+
+#nome{
+    width: 450px;
+    border-radius: 5px;
+    border-color: rgb(184, 184, 184);
+}
+
+#email{
+    width: 450px;
+    border-radius: 5px;
+    border-color: rgb(184, 184, 184);
+}
+
+#caixaTexto{
+    border-radius: 5px;
+    border-color: rgb(184, 184, 184);
+}
+
+#botao{
+    border-radius: 5px;
+    border-color: rgb(184, 184, 184);
+
+}
